@@ -1,0 +1,2 @@
+# BSc-CompScience-AZSET
+## BSc
